@@ -41,4 +41,3 @@ print("Tunjangan jabatan :", ttj)
 print("Tunjangan pendidikan :", ttp)
 print("Honor lembur :", blm)
 print("Total gaji (Gaji pokok + tunjangan + lembur) :", total)
-
