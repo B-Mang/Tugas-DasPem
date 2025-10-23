@@ -1,3 +1,4 @@
+#FALIH TEJA ARKANANTA ASELI NO AI AI
 gp = 300000
 nk = input("Masukkan nama karyawan :")
 g = int(input("Masukkan golongan anda (1/2/3) :"))
@@ -41,3 +42,4 @@ print("Tunjangan jabatan :", ttj)
 print("Tunjangan pendidikan :", ttp)
 print("Honor lembur :", blm)
 print("Total gaji (Gaji pokok + tunjangan + lembur) :", total)
+
